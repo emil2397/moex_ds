@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<data id="markets">
+<metadata>
+<columns>
+<column name="id" type="int32" />
+<column name="NAME" type="string" bytes="45" max_size="0" />
+<column name="title" type="string" bytes="765" max_size="0" />
+</columns>
+</metadata>
+<rows>
+<row id="5" NAME="index" title="Индексы фондового рынка" />
+<row id="1" NAME="shares" title="Рынок акций" />
+<row id="2" NAME="bonds" title="Рынок облигаций" />
+<row id="4" NAME="ndm" title="Режим переговорных сделок" />
+<row id="29" NAME="otc" title="ОТС" />
+<row id="27" NAME="ccp" title="РЕПО с ЦК" />
+<row id="35" NAME="deposit" title="Депозиты с ЦК" />
+<row id="3" NAME="repo" title="Рынок сделок РЕПО" />
+<row id="28" NAME="qnv" title="Квал. инвесторы" />
+<row id="36" NAME="mamc" title="Мультивалютный рынок смешанных активов" />
+<row id="33" NAME="moexboard" title="MOEX Board" />
+<row id="23" NAME="standard" title="Standard" />
+<row id="25" NAME="classica" title="Classica" />
+</rows>
+</data>
+</document>
